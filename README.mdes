@@ -1,0 +1,14 @@
+# NVME PCIe Card
+
+A x4 PCIe to NVME adapter card for additional storage in PCIe Gen 4 and below compatable machines.
+This board was created for the final project in ECEN 882 Passive Microwave Components at the University of Nebraska-Lincoln.
+
+![board](assets/production.jpeg)
+
+## PCB Design
+![pcb](assets/board.png)
+
+## Validation
+
+This board was tested on a PCIe Gen 3 capable machine and was seen to consistently hit read and write limits of the NVME drive its self, proving atleast Gen 3 performance.
+![valid](assets/validate.png)
