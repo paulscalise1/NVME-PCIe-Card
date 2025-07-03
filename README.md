@@ -4,3 +4,6 @@ A x4 PCIe to NVME adapter card for additional storage in PCIe Gen 4 and below co
 This board was created for the final project in ECEN 882 Passive Microwave Components at the University of Nebraska-Lincoln.
 
 ![board](assets/production.jpeg)
+
+## PCB Design
+![pcb](board.png)
