@@ -6,4 +6,4 @@ This board was created for the final project in ECEN 882 Passive Microwave Compo
 ![board](assets/production.jpeg)
 
 ## PCB Design
-![pcb](board.png)
+![pcb](assets/board.png)
